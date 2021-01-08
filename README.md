@@ -7,7 +7,7 @@
 #### Day1 - JavaScript Drumkit
 
 - [Link to Code](/01_drumkit)
-- [Live Demo]()
+- [Live Demo](https://mcrd25.github.io/JS30/01_drumkit/)
 
 #### Day2 - CSS + JS Clock
 

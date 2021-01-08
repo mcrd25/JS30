@@ -4,9 +4,14 @@
 
 ## Project
 
-### Day1 - Drumkit
+#### Day1 - JavaScript Drumkit
 
 - [Link to Code](/01_drumkit)
+- [Live Demo]()
+
+#### Day2 - CSS + JS Clock
+
+- [Link to Code](/02_clock)
 - [Live Demo]()
 
 ## Authors
